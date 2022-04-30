@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita Roy
 - 👀 I’m interested in Full-stack developement
-- 🌱 I’m currently studying ICT at JAMK university of Applied Sciences
+- 🌱 I’m currently studying ICT at JAMK University of Applied Sciences
 - 📫 My contact information - royankita6775@gmail.com
 
 <!---
