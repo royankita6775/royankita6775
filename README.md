@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita Roy
-- 👀 I’m interested in Full-stack development, Programming, and IT-related career.
-- 🌱 I’m currently a third-year ICT student at JAMK University of Applied Sciences
+- 👀 I’m interested in Full-stack development, Programming, and an IT-related career.
+- 🌱 I’ve graduated from JAMK University of Applied Sciences with a Bachelor's Degree in Information and Communication Technology.
 - 📫 My contact information - royankita6775@gmail.com
 
 <!---
